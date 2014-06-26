@@ -67,3 +67,8 @@ li{
 a:hover{
     color:#FF6600
 }
+
+.Caption{
+    font-size: 30px;
+    font-family: Courier;
+}
