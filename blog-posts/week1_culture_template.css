@@ -1,0 +1,74 @@
+#Banner{
+    position:absolute;
+    left:1%;
+    right:0%;
+    top:0%;
+    height:150px;
+    background:#404040 ;
+    border: 2px solid #404040 ;
+    z-index:1;
+    border-radius: 5px;
+    color: white;
+}
+
+#Menu{
+    position:absolute;
+    top: 40%;
+    left:20%
+}
+
+#Header{
+    font-size:40px;
+    position:absolute;
+    font-family: Verdana;
+    top: 27%;
+    left: 33%;
+}
+
+a{
+    text-decoration: none;
+    font-size:22px;
+    color:#000033;
+}
+
+#LeftBar{
+    position:fixed;
+    top:0%;
+    left:1%;
+    right:87%;
+    bottom:0%;
+    background-color:#989898;
+    border: 2px solid #404040 ;
+    border-radius: 5px;
+}
+
+#MiddleBar{
+    position:absolute;
+    top:22%;
+    left:15%;
+}
+td{
+    top:5%;
+    padding: 15px;
+    border-bottom: 4px solid #303030;
+}
+
+.blog{
+    width: 1000px;
+    font-size: 22px;
+    font-family: non-serif;
+    color: #006699;
+}
+
+li{
+    padding: 5px;
+}
+
+a:hover{
+    color:#FF6600
+}
+
+.Caption{
+    font-size: 30px;
+    font-family: Courier;
+}
