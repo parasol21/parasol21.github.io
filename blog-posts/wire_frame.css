@@ -91,25 +91,25 @@ td p{
 
 .Button1{
     position:absolute;
-    top:17%;
+    top:15%;
     left:13%;
     right:75%;
-    bottom:75%;
+    bottom:79%;
    
 }
 
 .Button2{
     position:absolute;
-    top:17%;
+    top:15%;
     left:26%;
     right:62%;
-    bottom:75%;
+    bottom:79%;
 }
 
 .Button3{
     position:absolute;
-    top:17%;
+    top:15%;
     left:39%;
     right:49%;
-    bottom:75%;
+    bottom:79%;
 }
