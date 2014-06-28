@@ -1,0 +1,68 @@
+
+*{
+    margin-left:5px;
+}
+
+p{
+	font-size: 1em;
+	font-family: Arial;
+	color: purple;
+}
+
+h1{
+     color: #cc6666;
+     font-family: Verdana;
+}
+
+h2{
+	color: #576D94
+	font-family: Courier;
+}
+
+h3{
+	color: yellow;
+}
+
+h4{
+	color: 33FFCC;
+}
+
+h5{
+	color: #FF00FF;
+}
+
+a{
+	text-decoration: none;
+	color: #cc0000;
+}
+
+#CH{
+   background-color: #C6E2FF;
+}
+
+#IFOOD{
+	backgroud-color: yellow;
+}
+
+#JFOOD{
+	background-color: #BCD2EE;
+}
+
+.Greek{
+	background-color: blue;
+}
+
+.Link{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+ol{
+    font-family: Serif;
+    font-size: 16px;
+}
+
+li{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
