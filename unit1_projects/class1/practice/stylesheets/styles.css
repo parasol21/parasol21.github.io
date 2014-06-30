@@ -1,4 +1,6 @@
 /* General Styles */
+
+
 body {
   background-color: rgb(241, 241, 241);
   font-size: 16px;
@@ -119,15 +121,26 @@ h4 {
   clear: both;
 }
 
-
-/* Famous Women */
-#famous div.woman {
+@media all and (min-width: 800px) {
+  #famous div.woman {
   background-color: white;
   float: left;
   min-height: 250px;
   margin: 1%;
   padding: 2%;
   width: 27.33%;
+}
+}
+
+@media all and (max-width: 800px) {
+/* Famous Women */
+#famous div.woman {
+  background-color: white;
+  min-height: 250px;
+  margin: 1%;
+  padding: 2%;
+  width: 27.33%;
+}
 }
 
 #famous div.break {
