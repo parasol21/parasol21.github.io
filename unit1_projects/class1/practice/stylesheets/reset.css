@@ -98,7 +98,7 @@ nav a{
 
 #Img{
     position:absolute;
-    top:30%;
+    top:27%;
     left:1%;
     right:1%;
     background-color: black;
@@ -120,19 +120,19 @@ a:hover{
 
 #leftC{
     position:absolute;
-    top: 198%;
+    top: 130%;
     left:1%;
     right:50%;
-    bottom:-150%;
+    bottom:-100%;
     border: 2px dotted black;
 }
 
 #rightC{
     position:absolute;
-    top: 198%;
+    top: 130%;
     left:50%;
     right:1%;
-    bottom:-150%;
+    bottom:-100%;
     border: 2px dotted black
 }
 
@@ -140,8 +140,8 @@ a:hover{
     position:absolute;
     left:1%;
     right:1%;
-    top:250%;
-    bottom:-155%;
+    top:200%;
+    bottom:-105%;
     background-color:#FFFF99;
 }
 
