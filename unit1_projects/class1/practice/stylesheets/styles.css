@@ -143,6 +143,7 @@ h4 {
   width: 27.33%;
 }
 #header .nav {
+  clear:both;
   float:left;
   font-size: 1.2em;
   margin-left: 20px;
