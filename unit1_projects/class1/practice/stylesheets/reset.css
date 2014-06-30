@@ -122,16 +122,16 @@ a:hover{
 
 #leftC{
     position:absolute;
-    top: 130%;
+    top: 128%;
     left:1%;
     right:50%;
-    bottom:-60%;
+    bottom:-80%;
     border: 2px dotted black;
 }
 
 #rightC{
     position:absolute;
-    top: 130%;
+    top: 128%;
     left:50%;
     right:1%;
     bottom:-80%;
@@ -143,7 +143,7 @@ a:hover{
     left:1%;
     right:1%;
     top:180%;
-    bottom:-75%;
+    bottom:-77%;
     background-color:#FFFF99;
 }
 
