@@ -47,7 +47,7 @@ table {
 	border-spacing: 0;
 }
 
-@font-face {
+font-face {
     font-family: myFirstFont;
     src: url(sansation_light.woff);
 }
@@ -98,8 +98,16 @@ nav a{
 
 #Img{
     position:absolute;
-    top:27%;
+    top:30%;
     left:1%;
+    right:1%;
+    background-color: black;
+}
+
+img{
+    display:block;
+    margin-right:auto;
+    margin-left: auto;
 }
 
 a{
