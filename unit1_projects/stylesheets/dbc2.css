@@ -111,3 +111,7 @@ li:last-child{
     color:#FF99CC;
 }
 
+a:before{
+  content: "";
+}
+
