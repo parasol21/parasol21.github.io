@@ -68,16 +68,19 @@ a{
 }
 
 article h1{
-    display:block;
-    margin:auto;
+    position:absolute;
+    top:40%;
+    left:45%;
     font-family: myFirstFont;
     text-align:center;
     font-size:220%
 }
 
 article h3{
+    position:absolute;
+    top:80%;
+    left:90%;
 	font-family: myFirstFont;
-	text-align:right;
 	font-size:150%;
 }
 
