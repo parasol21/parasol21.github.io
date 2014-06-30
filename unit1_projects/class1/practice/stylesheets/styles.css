@@ -143,7 +143,7 @@ h4 {
   width: 27.33%;
 }
 #header .nav {
-  float: left;
+  float:left;
   font-size: 1.2em;
   margin-left: 20px;
 }
@@ -152,7 +152,7 @@ h4 {
 }
 
 #facts {
-  text-align: left;
+  text-align:left;
 }
 }
 
