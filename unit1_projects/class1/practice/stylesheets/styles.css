@@ -149,11 +149,11 @@ h4 {
   font-size: 1.2em;
   margin-left: 20px;
 }
-#organizations {
+#organizations h2{
   text-align:left;
 }
 
-#facts {
+#facts h2{
   text-align:left;
 }
 }
