@@ -68,6 +68,8 @@ a{
 }
 
 article h1{
+    display:block;
+    margin:auto;
     font-family: myFirstFont;
     text-align:center;
     font-size:220%
@@ -98,7 +100,7 @@ nav a{
 
 #Img{
     position:absolute;
-    top:27%;
+    top:26%;
     left:1%;
     right:1%;
     background-color: black;
@@ -120,19 +122,19 @@ a:hover{
 
 #leftC{
     position:absolute;
-    top: 130%;
+    top: 126%;
     left:1%;
     right:50%;
-    bottom:-100%;
+    bottom:-60%;
     border: 2px dotted black;
 }
 
 #rightC{
     position:absolute;
-    top: 130%;
+    top: 126%;
     left:50%;
     right:1%;
-    bottom:-100%;
+    bottom:-60%;
     border: 2px dotted black
 }
 
