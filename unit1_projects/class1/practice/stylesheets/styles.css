@@ -86,11 +86,7 @@ h4 {
   background: url('../images/icons/it.png') no-repeat 0 50%;
   padding-left: 40px;
 }
-#header .nav {
-  float: right;
-  font-size: 1.2em;
-  margin-left: 20px;
-}
+
 #header .nav li {
   line-height: 75px;
 }
@@ -130,6 +126,11 @@ h4 {
   padding: 2%;
   width: 27.33%;
 }
+#header .nav {
+  float: right;
+  font-size: 1.2em;
+  margin-left: 20px;
+}
 }
 
 @media all and (max-width: 800px) {
@@ -140,6 +141,18 @@ h4 {
   margin: 1%;
   padding: 2%;
   width: 27.33%;
+}
+#header .nav {
+  float: left;
+  font-size: 1.2em;
+  margin-left: 20px;
+}
+#organizations {
+  text-align:left;
+}
+
+#facts {
+  text-align: left;
 }
 }
 
