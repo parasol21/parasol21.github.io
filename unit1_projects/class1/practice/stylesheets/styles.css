@@ -150,10 +150,14 @@ h4 {
   margin-left: 20px;
 }
 #organizations h2{
+  margin-left:15px;
+  padding-left:15px;
   text-align:left;
 }
 
 #facts h2{
+  margin-left:15px;
+  padding-left:15px;
   text-align:left;
 }
 }
