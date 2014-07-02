@@ -44,13 +44,14 @@ a{
 
 #MiddleBar{
     position:absolute;
-    top:24%;
+    top:23%;
     left:15%;
 }
 td{
     top:5%;
     padding: 15px;
     border-bottom: 4px solid #303030;
+    width:50%;
 }
 
 .blog{
@@ -111,4 +112,8 @@ td p{
     left:39%;
     right:49%;
     bottom:0%;
+}
+
+.Question{
+    font-size:1.5em;
 }
