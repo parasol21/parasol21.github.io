@@ -27,23 +27,33 @@
 <div ID = "MiddleBar">
 <table>
 	<tr>
-		<td><span Class="Question">Instance Variable</span></td>
+		<td><span Class="Question">Proc</span></td>
 		<td Class = "blog">
 		<ul>
-		<li>They are bound to an instance of a class.</li>
-		<li>It forms what we call the state of an object.</li>
-		<li>Every instance of a class has a different set of instance variables.</li>
+		<li>Procs are objects, blocks are not.</li>
+		<li>At most one block can appear in an argument list.</li>
+		<li>Its used as other ruby data types (array, hash, string, fixnum etc..), it’s reusable and could be used across multiple calls.</li>
 		</ul>
 		</td>
 	</tr>
 	<tr>
-	<td><span Class="Question">Instance Method</span></td>
+	<td><span Class="Question">Blocks</span></td>
 	<td Class = "blog">
 	<ul>
-		<li>Class methods are methods that are called on a class and instance methods.</li>
-		<li>They are called on an instance of a class.</li>
+		<li>Blocks are code that can be implicitly passed to a method in Ruby.</li>
+		<li>Any method can in fact be passed a block of code even if the method does not explicitly expect it.</li>
 	</ul>
 	</td>
+	</tr>
+	<tr>
+		<td><span Class="Question">Lambda</span></td>
+		<td Class = "blog">
+		<ul>
+		<li>Lambdas check the number of arguments, while procs do not.</li>
+		<li>The (lambda) notation is a reminder that while procs and lambdas are very similar, even both instances of the Proc class, they are also slightly different. Below are the key differences.</li>
+		<li>Lambdas and procs treat the ‘return’ keyword differently.</li>
+		</ul>
+		</td>
 	</tr>
 </table>
 </div>
